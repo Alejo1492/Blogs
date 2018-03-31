@@ -1,0 +1,22 @@
+.blog-bootstrap{
+  background:#701c1c;
+  height: 100%;
+  width: 100%;
+}
+.container-header{
+  background-color: white;
+  min-height: 150px;
+}
+.img-logo{
+  height: 120px;
+  width: 120px;
+  margin-top: 20px;
+}
+.img-redes{
+  height: 40px;
+  width: 40px;
+}
+.img-redes:hover{
+  color: white;
+  filter: opacity(0.5);
+}
