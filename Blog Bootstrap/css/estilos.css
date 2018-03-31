@@ -40,3 +40,17 @@ ul{
 .cuerpo-noticia{
   margin-top: 5px;
 }
+.img-articulo{
+  border-radius: 15px;
+  padding: 15% 5% 5% 5%;
+  width: 100%;
+}
+.glyphicon-user{
+  font-size: 40px;
+}
+.contenedor-comentario{
+  padding: 15px;
+}
+.comentarios{
+  width: 95%;
+}
