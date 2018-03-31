@@ -20,3 +20,16 @@
   color: white;
   filter: opacity(0.5);
 }
+.navbar-inverse{
+  border: none;
+  background-color: rgba(8, 45, 94, 0.95);
+  font-weight: bold;
+}
+ul{
+  width: 100%;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+  background-color: white;
+  filter: opacity(0.5);
+  color: rgb(10, 40, 99);
+}
