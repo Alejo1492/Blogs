@@ -57,3 +57,14 @@ ul{
 .search-contenedor{
   padding-top: 10%;
 }
+.atajos{
+  padding-top: 12px;
+}
+.atajos>a{
+  color:black;
+  text-decoration: none;
+}
+.atajos>a:hover{
+  color:blue;
+  font-weight: bold;
+}
