@@ -16,3 +16,14 @@ body{
   margin-top: 1rem;
   border-radius: 10px;
 }
+.btn{
+  margin-left: 5px;
+  margin-top: 1rem;
+}
+.redes-sociales{
+  box-shadow: none;
+  background-color: transparent;
+}
+.responsive-img{
+  margin-top: 1rem;
+}
