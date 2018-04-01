@@ -12,3 +12,9 @@ body{
   border-right: 1px solid white;
   color: white;
 }
+.input-group-field{
+  width: inherit;
+}
+.button-group.stacked-for-medium .button{
+  flex: 0 0 100%;
+}
