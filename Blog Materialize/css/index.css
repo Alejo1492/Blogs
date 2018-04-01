@@ -27,3 +27,42 @@ body{
 .responsive-img{
   margin-top: 1rem;
 }
+.texto-articulo{
+  text-align: justify;
+}
+input[type="text"]{
+  border-bottom: 1px solid white;
+}
+.input-field input[type=text].valid, .input-field input[type=text]:focus,textarea.materialize-textarea:focus:not([readonly]){
+  border-bottom: 1px solid white;
+  box-shadow: 0 1px 0 0 white;
+}
+textarea.materialize-textarea{
+  border-bottom: 1px solid white;
+}
+textarea.materialize-textarea{
+  padding: 0px;
+}
+.card .card-content{
+  padding-bottom: 0px !important;
+}
+.autor{
+  border-bottom: 1px solid black;
+}
+.img-autor{
+  width: 150px;
+  height: 150px;
+}
+@media (min-width: 992px) {
+  .navegacion{
+    min-height: 75px;
+  }
+}
+@media (max-width: 600px) {
+  .logo{
+    width: 98px;
+  }
+  .btn{
+    padding: 0 0.5rem;
+  }
+}
